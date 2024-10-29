@@ -1,0 +1,16 @@
+[
+    {
+        "name":"iphone",
+       
+        "feature":"true",
+        "rating":154,
+        "company":"apple"
+    },
+    {
+        "name":"iphone10",
+        
+        "featured":true,
+        "rating":1194,
+        "company":"dell"
+    }
+]
